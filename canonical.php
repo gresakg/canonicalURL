@@ -8,7 +8,7 @@ Plugin Name: Canonical URL
 Plugin URI: https://github.com/polhec/canonicalURL
 Description: Canonical URL
 Author: Tine Dolžan
-Version: 0.1 
+Version: 0.2 
 Author URI: https://github.com/polhec
 */
 
